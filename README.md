@@ -1,7 +1,7 @@
 # Expense Tracker (Java)
 Welcome to Expense Tracker, a simple and efficient tool for managing your personal or business expenses. This Java-based application provides a user-friendly interface for tracking and organizing your expenses.
 
-<img width="960" alt="ExpenseTrackerGUI" src="https://github.com/kabu03/expense-tracker/assets/118374503/2bcc529e-c70e-4f83-9473-4cb1152bdfa6">
+<img width="960" alt="ExpenseTrackerGUI" src="https://github.com/saiakash2">
 
 ## Features
 
@@ -17,7 +17,7 @@ To get started with Expense Tracker:
 ### 1) Clone the Repository
 
 Use the following command to clone the repository:
-```git clone https://github.com/kabu03/expense-tracker.git```
+```git clone(https://github.com/saiakash2)```
 
 ### 2) Open and Run the Project
 Open the project in your preferred Java IDE.
